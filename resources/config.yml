@@ -1,0 +1,15 @@
+## Config.yml from this Plugin!
+## nice ;)
+
+## HealUI - Prefix Setup
+heal.prefix: "§2§lHeal§c§lUI§r §8> §7"
+
+## HealUI - UI Setup
+
+heal.title: "§2§lHeal§c§lUI§r §8- §aPlugin"
+heal.content: "§7This plugin was made by §c§lSaveConnectionPE§r§4!"
+
+## HealUI - Message Setup
+
+heal.healmsg: "§7You was healed§4!"
+heal.exitmsg: "§7You Exit the §2§lHeal§c§lUI§r§4!"
