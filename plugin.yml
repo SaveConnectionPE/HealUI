@@ -1,0 +1,15 @@
+name: HealUI
+version: 1.0
+api: 3.0.0
+author: SaveConnectionPE
+main: HealUI\Main
+
+commands:
+  healui:
+    description: "§7Open the §9§lHealUI§r§4!"
+    permission: "healui.use"
+    
+permissions:
+  healui.use:
+    default: op
+    description: "Allow the User to use the healui!"
